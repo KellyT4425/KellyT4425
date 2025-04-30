@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=header&text=Hi Everyone!&animation=fadeIn&fontSize=90)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 - 👋 Hi, I’m Kelly
 - 👀 I am currently studying a Diploma in Full Stack Software Development with The Code Institute
