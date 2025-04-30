@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=header&text=Hi Everyone!&animation=fadeIn&fontSize=90)
+
 - 👋 Hi, I’m Kelly
 - 👀 I am currently studying a Diploma in Full Stack Software Development with The Code Institute
 - 🌱 My learning so far has consisted of HTML | CSS | JavaScript | Python
